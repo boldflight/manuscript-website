@@ -53,6 +53,12 @@ main {
     padding: 20px;
 }
 
+.bigBox {
+    flex: 1 1 292px;
+    max-width: 800px;
+    padding: 20px;
+}
+
 .button-border {
     border: 2px solid var(--textColor);
     border-radius: 4px;
