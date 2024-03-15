@@ -1,7 +1,7 @@
 :root {
-    --textColor: #030931;
-    --backgroundColor: #F5EFEA;
-    --appColor: #3EAAFC;
+    --textColor: #444444;
+    --backgroundColor: #FFFFFF;
+    --appColor: #DC4C4F;
 }
 
 * {
